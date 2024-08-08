@@ -1,5 +1,7 @@
-# estudio_casos_de_proyectos_dsc
-Estudio de casos de proyectos en Data science
+# Estudio de casos en Data Science con aplicaciones a datos Industriales, salud y Big-Data.
+
+Este repositorio contiene casos de aplicaciones de Data Science para ser empleado en cursos de post-grado.
+Son empleados los lenguajes R y Python.
 
 
 
