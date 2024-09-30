@@ -7,7 +7,20 @@ Son empleados los lenguajes R y Python.
 
 ## Modelos de ranking para datos industriales
 
-## Simulación de distribuciones empiricas, poder empirico em calculos en paralelo
+### Caso de estudio: lealtad de clientes a las marcas
+
+## Aprendizaje en linea
+### Caso de estudio: Asesoría de experto
+
+## Sistema de recomendaciones
+### Caso de estudio: Analisis de semantica Latente.
+
+## Clasificación
+
+### Caso de estudio: Control de calidad
+
+## Aplicaciones de Modelos Aditivos Generalizados a ensayos clinicos
+
 
 
 
