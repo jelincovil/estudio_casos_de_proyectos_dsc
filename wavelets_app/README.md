@@ -1,4 +1,4 @@
-# Wavelets
+# Aplicación de las Wavelets datos funcionales
 
 ## Estimación de curvas de mp2.5
 
