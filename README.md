@@ -3,7 +3,8 @@
 Este repositorio contiene casos de aplicaciones de Data Science para ser empleado en cursos de post-grado.
 Son empleados los lenguajes R y Python.
 
-## Aplicación de la Teoria de Ondaletas a estimación y comparación de curvas y curvas
+## Aplicación de la Teoria de Ondaletas a la estimación y comparación de datos funcionales
+
 
 ## Modelos de ranking para datos industriales
 
