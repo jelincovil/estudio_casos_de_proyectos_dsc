@@ -51,3 +51,4 @@ Se utilizarán datos disponibles públicamente del dataset de comercio electrón
 # Referencias
 - Causal Inference in Python by Matheus Facure. https://www.oreilly.com/library/view/causal-inference-in/9781098140243/
   GitHub: https://matheusfacure.github.io/python-causality-handbook/04-Graphical-Causal-Models.html
+% https://www.thoughtworks.com/es-cl/careers/jobs/6325486
