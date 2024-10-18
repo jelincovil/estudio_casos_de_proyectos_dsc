@@ -72,4 +72,3 @@ te detallo los puntos clave que debes considerar:
 9. Documentar el proceso y comunicar resultados claramente.
 10. Monitorear el modelo y realizar mejoras continuas.
 
-Siguiendo estos criterios, podrás desarrollar una **solución tecnológica de Data Science** efectiva y con impacto, utilizando Python como herramienta principal.
